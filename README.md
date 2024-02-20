@@ -3,6 +3,7 @@
 
 Este projeto consiste num Contador de ponteiras de soldadura que separa e identifica de entre os três tipos possiveis, a ponteira que foi introduzida, com recurso a sistema de visao e pesagem. 
 
+Descriçao mais detalhada em [Apresentação do Tema](/Apresentação do Tema)
 
 <img src="Imagens/Sistema_novo_fechado.png" alt="Aspeto exterior ">
 
