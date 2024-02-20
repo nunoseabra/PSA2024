@@ -1,0 +1,45 @@
+Contagem Ponteiras Soldadura 
+
+2. SERVICEDESCRIPTION
+The proposed system has the following operating mode:
+- User identification through RFID;
+- Placement of used tips in a specific input;
+- Identification of welding tips and calculation of the quantity of tips to be supplied, through the weight of the scale;
+- Dispensing with welding tips;
+- Possibility of supplying additional tips, through previous configuration in the software; - The used tips are pushed to a collection place, through a linear actuator;
+The system consists of:
+- Supply of a structure in aluminum profile and closed with polycarbonate or equivalent, for mounting the computer, scale, screw dispensers, among others. At the rear, there will be an access door with a lock, for replacing tips in the dispensers' deposits, removing used tips and carrying out maintenance;
+- Computer (Server) with integrated touch-screen monitor, for:
+- User identification;
+- Operator interaction with the system;
+- Possibility of remote access, to monitor the system's operating status,
+- Preparation of data reports: by date (range of dates), by type of tip, by operator, by line, etc.;
+- System configuration: Operator registration, weekly and daily production planning (defining consumption limits per line, operator, type of tip, etc);
+
+    
+     
+- Electric panel, consisting of:
+- Protection circuit breakers;
+- Differential switch;
+- Digital input and output module, to interface with the various components (Dispensers, Linear Actuator, flags);
+- RFID card reading station, for user identification;
+- Scale (up to 1Kg and 0.1g resolution) with serial communication, for:
+- Weigh the welding tips,
+- Identification of the type of tip,
+- Calculation of the number of tips;
+- (Qt 3) Screw dispensers (standard), for each type of tips;
+- Supply of a linear actuator and support, to remove the used tips from the scale; - Deposit to store used tips;
+ 
+Fig 1 – Equipment sketch
+ 
+2.1. ELECTICAL / AUTOMATION COMPONENT
+•	Supply and installation of an electrical box/panel for the assembly of circuit breakers, protection elements, digital inputs and outputs module, power supply, among others;
+•	Making the necessary electrical connections to the dispensers and other components.
+2.2. DEVELOPMENT / PROGRAMMING COMPONENT
+•	Development of an operator interface platform (according to the operating mode described in point 2);
+•	Development of administrative interface platform for system configuration and data visualization;
+2.3. HARDWARE COMPONENT
+•	Supply and installation of Intel NUC Server Mini PC, Touch-Screen monitor and RFID reader;
+•	Supply and installation of digital inputs and outputs module;
+•	Supply and installation of 3 welding tip dispensers and high precision scale with serial communication.
+
