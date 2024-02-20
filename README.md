@@ -2,7 +2,9 @@ __Projeto Sistemas de Automação - Unidade curricular de Mestrado em Engenharia
 
 
 
-Este projeto consiste num Contador de ponteiras de soldadura que separa e identifica de entre os três tipos possiveis, a ponteira que foi introduzida, com recurso a sistema de visao e pesagem. 
+Este projeto consiste num Contador de ponteiras de soldadura que  identifica e separa de entre três tipos possiveis, a ponteira que foi introduzida, com recurso a sistema de visao e pesagem. 
+
+<img src="Imagens/Ponteiras.png" alt="Ponteiras de soldadura">
 
 Descriçao mais detalhada em [Apresentação](Apresentação/)
 
