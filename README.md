@@ -8,9 +8,11 @@ Este projeto consiste num Contador de ponteiras de soldadura que  identifica e s
 
 Descriçao mais detalhada em [Apresentação](Apresentação/)
 
-<img src="Imagens/Sistema_novo_fechado.png" alt="Aspeto exterior ">
+<div style="display: flex;">
+    <img src="Imagens/Sistema_novo_fechado.png" alt="Imagem 1" style="width: 45%;">
+    <img src="Imagens/Sistema_novo.png" alt="Imagem 2" style="width: 45%;">
+</div>
 
-<img src="Imagens/Sistema_novo.png" alt="Aspeto exterior ">
 
 <img src="Imagens/sistema_componentes.png" alt="Aspeto interior ">
 
