@@ -34,7 +34,7 @@ Balança (até 1Kg e resolução de 0,1g) com comunicação serial, para:
 - Depósito para armazenar pontas usadas;
   
 <p align="center">
-    <img src="Imagens/SISTEMA.jpg" alt="Imagem 1" width="400">
+    <img src="Imagens/Sistema_novo_fechado.png" alt="Imagem 1" width="400">
     <br>
     <em>Apresentaçao exterior do sistema </em>
 </p>
@@ -43,19 +43,24 @@ Componente Elétrico / Automação:
 • Fornecimento e instalação de uma caixa/quadro elétrico para a montagem de disjuntores, elementos de proteção, módulo de entradas e saídas digitais, fonte de alimentação, entre outros;
 • Realização das conexões elétricas necessárias para os dispensadores e outros componentes.
 
+<p align="center">
+    <img src="Imagens/Sistema_novo.png" alt="Imagem 2" width="400">
+    <br>
+    <em> Apresentação interior do sistema </em>
+</p>
 
 Componente de Desenvolvimento / Programação
 • Desenvolvimento de uma plataforma de interface do operador (conforme o modo de operação descrito no ponto 2);
 • Desenvolvimento de uma plataforma de interface administrativa para configuração do sistema e visualização de dados.
 
+<p align="center">
+    <img src="Imagens/sistema_componentes.png" alt="Imagem 2" width="400">
+    <br>
+    <em> Apresentação interior do sistema </em>
+</p>
 
 Componente de Hardware
 • Fornecimento e instalação de Intel NUC Server Mini PC, monitor touch-screen e leitor RFID;
 • Fornecimento e instalação do módulo de entradas e saídas digitais;
 • Fornecimento e instalação de 3 dispensadores de pontas de soldagem e balança de alta precisão com comunicação serial.
 
-<p align="center">
-    <img src="Imagens/sistema_novo.png" alt="Imagem 2" width="400">
-    <br>
-    <em> Apresentação interior do sistema novo </em>
-</p>
