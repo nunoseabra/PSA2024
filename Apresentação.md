@@ -35,7 +35,7 @@ Balança (até 1Kg e resolução de 0,1g) com comunicação serial, para:
   
 <figure>
 <img src="Imagens/SISTEMA.jpg" alt="Ponteiras de soldadura" style="width: auto; height: 400px;">
-<figcaption> style="text-align: center";Sistema - Apresentaçao exterior</figcaption>
+<figcaption style="text-align: center";>Sistema - Apresentaçao exterior </figcaption>
 </figure>
    
 
