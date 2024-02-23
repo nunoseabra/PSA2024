@@ -34,9 +34,9 @@ Balança (até 1Kg e resolução de 0,1g) com comunicação serial, para:
 - Depósito para armazenar pontas usadas;
   
 <p align="center">
-    <img src="Imagens/SISTEMA.jpg" alt="Imagem 1" width="200">
+    <img src="Imagens/SISTEMA.jpg" alt="Imagem 1" width="400">
     <br>
-    <em>Sistema - Apresentaçao exterior</em>
+    <em>Apresentaçao exterior do sistema </em>
 </p>
 
 Componente Elétrico / Automação:
@@ -53,3 +53,9 @@ Componente de Hardware
 • Fornecimento e instalação de Intel NUC Server Mini PC, monitor touch-screen e leitor RFID;
 • Fornecimento e instalação do módulo de entradas e saídas digitais;
 • Fornecimento e instalação de 3 dispensadores de pontas de soldagem e balança de alta precisão com comunicação serial.
+
+<p align="center">
+    <img src="Imagens/sistema_novo.png" alt="Imagem 2" width="400">
+    <br>
+    <em> Apresentação interior do sistema novo </em>
+</p>
