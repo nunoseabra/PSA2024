@@ -40,8 +40,8 @@ Balança (até 1Kg e resolução de 0,1g) com comunicação serial, para:
 </p>
 
 Componente Elétrico / Automação:
-• Fornecimento e instalação de uma caixa/quadro elétrico para a montagem de disjuntores, elementos de proteção, módulo de entradas e saídas digitais, fonte de alimentação, entre outros;
-• Realização das conexões elétricas necessárias para os dispensadores e outros componentes.
+- Fornecimento e instalação de uma caixa/quadro elétrico para a montagem de disjuntores, elementos de proteção, módulo de entradas e saídas digitais, fonte de alimentação, entre outros;
+- Realização das conexões elétricas necessárias para os dispensadores e outros componentes.
 
 <p align="center">
     <img src="Imagens/Sistema_novo.png" alt="Imagem 2" width="400">
@@ -50,8 +50,8 @@ Componente Elétrico / Automação:
 </p>
 
 Componente de Desenvolvimento / Programação
-• Desenvolvimento de uma plataforma de interface do operador (conforme o modo de operação descrito no ponto 2);
-• Desenvolvimento de uma plataforma de interface administrativa para configuração do sistema e visualização de dados.
+- Desenvolvimento de uma plataforma de interface do operador (conforme o modo de operação descrito no ponto 2);
+- Desenvolvimento de uma plataforma de interface administrativa para configuração do sistema e visualização de dados.
 
 <p align="center">
     <img src="Imagens/sistema_componentes.png" alt="Imagem 2" width="400">
