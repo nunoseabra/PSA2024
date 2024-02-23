@@ -33,13 +33,13 @@ Balança (até 1Kg e resolução de 0,1g) com comunicação serial, para:
 - Fornecimento de um atuador linear e suporte, para remover as pontas usadas da balança;
 - Depósito para armazenar pontas usadas;
   
-<figure>
+<figure style="text-align: center;">
 <img src="Imagens/SISTEMA.jpg" alt="Ponteiras de soldadura" style="width: auto; height: 400px;">
 <figcaption style="text-align: center";>Sistema - Apresentaçao exterior </figcaption>
 </figure>
    
 
-Componente Elétrico / Automação
+Componente Elétrico / Automação:
 • Fornecimento e instalação de uma caixa/quadro elétrico para a montagem de disjuntores, elementos de proteção, módulo de entradas e saídas digitais, fonte de alimentação, entre outros;
 • Realização das conexões elétricas necessárias para os dispensadores e outros componentes.
 
