@@ -32,7 +32,7 @@ Painel elétrico, consistindo em:
 - Interruptor diferencial;
 - Módulo de entrada e saída digital, para interface com os vários componentes (Dispensadores, Atuador Linear, bandeiras);
 - Estação de leitura de cartão RFID, para identificação do usuário;
-
+<br>
 
 Balança (até 1Kg e resolução de 0,1g) com comunicação serial, para:
 - Pesagem das pontas de soldagem,
