@@ -1,5 +1,7 @@
 Contagem Ponteiras Soldadura 
 
+Este projeto consiste num Dispensador de ponteiras de soldadura que identifica e separa de entre três tipos possiveis, a ponteira que foi introduzida por um usuário previamente identificado, com recurso a RFID, sistema de visao e pesagem. Consequentemente, irá disponibilizar ao usuário novas ponteiras da mesma gama e guardar as ponteiras usadas.
+
 O sistema proposto possui o seguinte modo de operação:
 - Identificação do usuário através de RFID;
 - Colocação de pontas de soldagem usadas em uma entrada específica;
