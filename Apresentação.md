@@ -32,11 +32,13 @@ Balança (até 1Kg e resolução de 0,1g) com comunicação serial, para:
 - (Qt 3) Dispensadores de parafusos (padrão), para cada tipo de pontas;
 - Fornecimento de um atuador linear e suporte, para remover as pontas usadas da balança;
 - Depósito para armazenar pontas usadas;
-
+- 
+ <figure>
 <img src="Imagens/SISTEMA.jpg" alt="Ponteiras de soldadura" style="width: auto; height: 400px;">
-<centre><figcaption>Sistema - Apresentaçao exterior</figcaption></centre>
-
-
+<figcaption> style="text-align: center";Sistema - Apresentaçao exterior</figcaption>
+ </figure>
+   
+<figcaption ">Legenda da Imagem 1</figcaption>
 Componente Elétrico / Automação
 • Fornecimento e instalação de uma caixa/quadro elétrico para a montagem de disjuntores, elementos de proteção, módulo de entradas e saídas digitais, fonte de alimentação, entre outros;
 • Realização das conexões elétricas necessárias para os dispensadores e outros componentes.
