@@ -1,45 +1,49 @@
 Contagem Ponteiras Soldadura 
 
-2. SERVICEDESCRIPTION
-The proposed system has the following operating mode:
-- User identification through RFID;
-- Placement of used tips in a specific input;
-- Identification of welding tips and calculation of the quantity of tips to be supplied, through the weight of the scale;
-- Dispensing with welding tips;
-- Possibility of supplying additional tips, through previous configuration in the software; - The used tips are pushed to a collection place, through a linear actuator;
-The system consists of:
-- Supply of a structure in aluminum profile and closed with polycarbonate or equivalent, for mounting the computer, scale, screw dispensers, among others. At the rear, there will be an access door with a lock, for replacing tips in the dispensers' deposits, removing used tips and carrying out maintenance;
-- Computer (Server) with integrated touch-screen monitor, for:
-- User identification;
-- Operator interaction with the system;
-- Possibility of remote access, to monitor the system's operating status,
-- Preparation of data reports: by date (range of dates), by type of tip, by operator, by line, etc.;
-- System configuration: Operator registration, weekly and daily production planning (defining consumption limits per line, operator, type of tip, etc);
+O sistema proposto possui o seguinte modo de operação:
+- Identificação do usuário através de RFID;
+- Colocação de pontas de soldagem usadas em uma entrada específica;
+- Identificação das pontas de soldagem e cálculo da quantidade de pontas a serem fornecidas, através do peso da balança;
+- Dispensação de pontas de soldagem;
+- Possibilidade de fornecimento de pontas adicionais, através de configuração prévia no software;
+- As pontas usadas são empurradas para um local de recolha, através de um atuador linear;
 
-    
-     
-- Electric panel, consisting of:
-- Protection circuit breakers;
-- Differential switch;
-- Digital input and output module, to interface with the various components (Dispensers, Linear Actuator, flags);
-- RFID card reading station, for user identification;
-- Scale (up to 1Kg and 0.1g resolution) with serial communication, for:
-- Weigh the welding tips,
-- Identification of the type of tip,
-- Calculation of the number of tips;
-- (Qt 3) Screw dispensers (standard), for each type of tips;
-- Supply of a linear actuator and support, to remove the used tips from the scale; - Deposit to store used tips;
- 
-Fig 1 – Equipment sketch
- 
-2.1. ELECTICAL / AUTOMATION COMPONENT
-•	Supply and installation of an electrical box/panel for the assembly of circuit breakers, protection elements, digital inputs and outputs module, power supply, among others;
-•	Making the necessary electrical connections to the dispensers and other components.
-2.2. DEVELOPMENT / PROGRAMMING COMPONENT
-•	Development of an operator interface platform (according to the operating mode described in point 2);
-•	Development of administrative interface platform for system configuration and data visualization;
-2.3. HARDWARE COMPONENT
-•	Supply and installation of Intel NUC Server Mini PC, Touch-Screen monitor and RFID reader;
-•	Supply and installation of digital inputs and outputs module;
-•	Supply and installation of 3 welding tip dispensers and high precision scale with serial communication.
+O sistema consiste em:
+- Fornecimento de uma estrutura em perfil de alumínio e fechada com policarbonato ou equivalente, para montagem do computador, balança, dispensadores de parafuso, entre outros. Na parte traseira, haverá uma porta de acesso com fechadura, para substituição das pontas nos depósitos dos dispensadores, remoção de pontas usadas e realização de manutenção;
+- Computador (Servidor) com monitor touch-screen integrado, para:
+- Identificação do usuário;
+- Interação do operador com o sistema;
+- Possibilidade de acesso remoto, para monitorar o status operacional do sistema;
+- Preparação de relatórios de dados: por data (intervalo de datas), por tipo de ponta, por operador, por linha, etc.;
+- Configuração do sistema: Registro do operador, planejamento de produção semanal e diário (definindo limites de consumo por linha, operador, tipo de ponta, etc.);
 
+Painel elétrico, consistindo em:
+- Disjuntores de proteção;
+- Interruptor diferencial;
+- Módulo de entrada e saída digital, para interface com os vários componentes (Dispensadores, Atuador Linear, bandeiras);
+- Estação de leitura de cartão RFID, para identificação do usuário;
+
+Balança (até 1Kg e resolução de 0,1g) com comunicação serial, para:
+- Pesagem das pontas de soldagem,
+- Identificação do tipo de ponta,
+- Cálculo do número de pontas;
+- (Qt 3) Dispensadores de parafusos (padrão), para cada tipo de pontas;
+- Fornecimento de um atuador linear e suporte, para remover as pontas usadas da balança;
+- Depósito para armazenar pontas usadas;
+
+<img src="Imagens/SISTEMA.jpg" alt="Ponteiras de soldadura" style="width: auto; height: 400px;">
+<figcaption>Legenda da Imagem 1</figcaption>
+Fig 1 - Esboço do Equipamento
+
+Componente Elétrico / Automação
+• Fornecimento e instalação de uma caixa/quadro elétrico para a montagem de disjuntores, elementos de proteção, módulo de entradas e saídas digitais, fonte de alimentação, entre outros;
+• Realização das conexões elétricas necessárias para os dispensadores e outros componentes.
+
+Componente de Desenvolvimento / Programação
+• Desenvolvimento de uma plataforma de interface do operador (conforme o modo de operação descrito no ponto 2);
+• Desenvolvimento de uma plataforma de interface administrativa para configuração do sistema e visualização de dados.
+
+Componente de Hardware
+• Fornecimento e instalação de Intel NUC Server Mini PC, monitor touch-screen e leitor RFID;
+• Fornecimento e instalação do módulo de entradas e saídas digitais;
+• Fornecimento e instalação de 3 dispensadores de pontas de soldagem e balança de alta precisão com comunicação serial.
