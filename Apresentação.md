@@ -25,15 +25,15 @@ O sistema consiste em:
 - Possibilidade de acesso remoto, para monitorar o status operacional do sistema;
 - Preparação de relatórios de dados: por data (intervalo de datas), por tipo de ponta, por operador, por linha, etc.;
 - Configuração do sistema: Registro do operador, planejamento de produção semanal e diário (definindo limites de consumo por linha, operador, tipo de ponta, etc.);
-
 <br>
+
 Painel elétrico, consistindo em:
 - Disjuntores de proteção;
 - Interruptor diferencial;
 - Módulo de entrada e saída digital, para interface com os vários componentes (Dispensadores, Atuador Linear, bandeiras);
 - Estação de leitura de cartão RFID, para identificação do usuário;
 
-<br>
+
 Balança (até 1Kg e resolução de 0,1g) com comunicação serial, para:
 - Pesagem das pontas de soldagem,
 - Identificação do tipo de ponta,
