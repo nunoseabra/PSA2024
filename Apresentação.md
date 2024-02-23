@@ -71,3 +71,5 @@ Componente de Hardware
 - Fornecimento e instalação do módulo de entradas e saídas digitais;
 - Fornecimento e instalação de 3 dispensadores de pontas de soldagem e balança de alta precisão com comunicação serial.
 
+No funcionamento deste sistema teremos comunicaçoes RFID na leitura da identifcaçao do trabalhador, rs232 com a balança de pesagem. Ao computador teremos ainda ligado o sistema de visao e programa de atuaçao sobre o atuador linear responsavel pela seleçao das ponteiras na balança.
+
