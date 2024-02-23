@@ -8,6 +8,7 @@ O sistema proposto possui o seguinte modo de operação:
 - Possibilidade de fornecimento de pontas adicionais, através de configuração prévia no software;
 - As pontas usadas são empurradas para um local de recolha, através de um atuador linear;
 
+
 O sistema consiste em:
 - Fornecimento de uma estrutura em perfil de alumínio e fechada com policarbonato ou equivalente, para montagem do computador, balança, dispensadores de parafuso, entre outros. Na parte traseira, haverá uma porta de acesso com fechadura, para substituição das pontas nos depósitos dos dispensadores, remoção de pontas usadas e realização de manutenção;
 - Computador (Servidor) com monitor touch-screen integrado, para:
@@ -16,6 +17,7 @@ O sistema consiste em:
 - Possibilidade de acesso remoto, para monitorar o status operacional do sistema;
 - Preparação de relatórios de dados: por data (intervalo de datas), por tipo de ponta, por operador, por linha, etc.;
 - Configuração do sistema: Registro do operador, planejamento de produção semanal e diário (definindo limites de consumo por linha, operador, tipo de ponta, etc.);
+
 
 Painel elétrico, consistindo em:
 - Disjuntores de proteção;
@@ -33,15 +35,17 @@ Balança (até 1Kg e resolução de 0,1g) com comunicação serial, para:
 
 <img src="Imagens/SISTEMA.jpg" alt="Ponteiras de soldadura" style="width: auto; height: 400px;">
 <figcaption>Legenda da Imagem 1</figcaption>
-Fig 1 - Esboço do Equipamento
+
 
 Componente Elétrico / Automação
 • Fornecimento e instalação de uma caixa/quadro elétrico para a montagem de disjuntores, elementos de proteção, módulo de entradas e saídas digitais, fonte de alimentação, entre outros;
 • Realização das conexões elétricas necessárias para os dispensadores e outros componentes.
 
+
 Componente de Desenvolvimento / Programação
 • Desenvolvimento de uma plataforma de interface do operador (conforme o modo de operação descrito no ponto 2);
 • Desenvolvimento de uma plataforma de interface administrativa para configuração do sistema e visualização de dados.
+
 
 Componente de Hardware
 • Fornecimento e instalação de Intel NUC Server Mini PC, monitor touch-screen e leitor RFID;
