@@ -8,6 +8,11 @@ O sistema proposto possui o seguinte modo de operação:
 - Possibilidade de fornecimento de pontas adicionais, através de configuração prévia no software;
 - As pontas usadas são empurradas para um local de recolha, através de um atuador linear;
 
+<p align="center">
+    <img src="Imagens/Ponteiras.png" alt="Imagem 1" width="400">
+    <br>
+    <em> Ponteiras de soldadura  </em>
+</p>
 
 O sistema consiste em:
 - Fornecimento de uma estrutura em perfil de alumínio e fechada com policarbonato ou equivalente, para montagem do computador, balança, dispensadores de parafuso, entre outros. Na parte traseira, haverá uma porta de acesso com fechadura, para substituição das pontas nos depósitos dos dispensadores, remoção de pontas usadas e realização de manutenção;
@@ -60,7 +65,7 @@ Componente de Desenvolvimento / Programação
 </p>
 
 Componente de Hardware
-• Fornecimento e instalação de Intel NUC Server Mini PC, monitor touch-screen e leitor RFID;
-• Fornecimento e instalação do módulo de entradas e saídas digitais;
-• Fornecimento e instalação de 3 dispensadores de pontas de soldagem e balança de alta precisão com comunicação serial.
+- Fornecimento e instalação de Intel NUC Server Mini PC, monitor touch-screen e leitor RFID;
+- Fornecimento e instalação do módulo de entradas e saídas digitais;
+- Fornecimento e instalação de 3 dispensadores de pontas de soldagem e balança de alta precisão com comunicação serial.
 
