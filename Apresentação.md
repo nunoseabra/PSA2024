@@ -34,7 +34,7 @@ Balança (até 1Kg e resolução de 0,1g) com comunicação serial, para:
 - Depósito para armazenar pontas usadas;
 
 <img src="Imagens/SISTEMA.jpg" alt="Ponteiras de soldadura" style="width: auto; height: 400px;">
-<figcaption>Legenda da Imagem 1</figcaption>
+<centre><figcaption>Sistema - Apresentaçao exterior</figcaption></centre>
 
 
 Componente Elétrico / Automação
