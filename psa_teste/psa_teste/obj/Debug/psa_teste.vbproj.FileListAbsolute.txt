@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\utilizador\Desktop\Universidade\II\programs VB\psa_teste\psa_teste\bin\Debug\psa_teste.exe.config
+C:\Users\ASUS\Desktop\utilizador\Desktop\Universidade\II\programs VB\psa_teste\psa_teste\bin\Debug\psa_teste.exe
+C:\Users\ASUS\Desktop\utilizador\Desktop\Universidade\II\programs VB\psa_teste\psa_teste\bin\Debug\psa_teste.pdb
+C:\Users\ASUS\Desktop\utilizador\Desktop\Universidade\II\programs VB\psa_teste\psa_teste\bin\Debug\psa_teste.xml
+C:\Users\ASUS\Desktop\utilizador\Desktop\Universidade\II\programs VB\psa_teste\psa_teste\obj\Debug\psa_teste.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\utilizador\Desktop\Universidade\II\programs VB\psa_teste\psa_teste\obj\Debug\psa_teste.Form1.resources
+C:\Users\ASUS\Desktop\utilizador\Desktop\Universidade\II\programs VB\psa_teste\psa_teste\obj\Debug\psa_teste.Resources.resources
+C:\Users\ASUS\Desktop\utilizador\Desktop\Universidade\II\programs VB\psa_teste\psa_teste\obj\Debug\psa_teste.vbproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\utilizador\Desktop\Universidade\II\programs VB\psa_teste\psa_teste\obj\Debug\psa_teste.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\utilizador\Desktop\Universidade\II\programs VB\psa_teste\psa_teste\obj\Debug\psa_teste.exe
+C:\Users\ASUS\Desktop\utilizador\Desktop\Universidade\II\programs VB\psa_teste\psa_teste\obj\Debug\psa_teste.xml
+C:\Users\ASUS\Desktop\utilizador\Desktop\Universidade\II\programs VB\psa_teste\psa_teste\obj\Debug\psa_teste.pdb
+C:\Users\ASUS\Desktop\utilizador\Desktop\Universidade\II\programs VB\psa_teste\psa_teste\obj\Debug\psa_teste.Form2.resources
