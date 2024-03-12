@@ -39,7 +39,7 @@
                     If txtID.Text = "Antonio" Then
                         txtPass.Clear()
                     ElseIf txtPass.Text = "1234" Then
-                        txtID.Clear()
+                        
                     End If
                 End If
             Case Else
